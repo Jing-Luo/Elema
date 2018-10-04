@@ -1,0 +1,4 @@
+#!"C:/Platforms/Ampps/php/php-cgi.exe" -q
+<?php
+phpinfo();
+?>
