@@ -33,7 +33,9 @@ To install the system on the local machine, at first an Apache Webserver and a M
 ## Product Showcase
 
 ### Customer
-![](/Showcase/Customer/1.png) ![](/Showcase/Customer/2.png)
+| ![](/Showcase/Customer/1.png) | ![](/Showcase/Customer/2.png) |
+|:---:|:---:|
+| 1 | 2 |
 ![](/Showcase/Customer/3.png) ![](/Showcase/Customer/4.png)
 ![](/Showcase/Customer/5.png) ![](/Showcase/Customer/6.png)
 ![](/Showcase/Customer/7.png) ![](/Showcase/Customer/8.png)
